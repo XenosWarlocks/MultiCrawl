@@ -32,7 +32,7 @@ MultiCrawl is a powerful and flexible web crawling framework that provides multi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multicrawl.git
+git clone https://github.com/XenosWarlocks/MultiCrawl.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -88,16 +88,9 @@ This will generate performance metrics and a visualization comparing different c
 pytest tests/
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-## Disclaimer
-
-Respect website terms of service and robots.txt when using this crawler. Always ensure you have permission to crawl a website.
+## Project structure
 ```
-project_structure/
+MultiCrawl/
 │
 ├── src/
 │   ├── __init__.py
@@ -132,3 +125,12 @@ project_structure/
 ├── README.md
 └── benchmark.py
 ```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## Disclaimer
+
+Respect website terms of service and robots.txt when using this crawler. Always ensure you have permission to crawl a website.
