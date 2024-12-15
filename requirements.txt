@@ -1,0 +1,23 @@
+# Core libraries
+aiohttp==3.9.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# Data processing
+pandas==2.2.1
+numpy==1.26.3
+spacy
+langdetect
+
+# Utilities
+asyncio==3.4.3
+concurrent.futures
+
+# Optional: Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Testing
+pytest==8.0.1
+pytest-asyncio==0.23.3
